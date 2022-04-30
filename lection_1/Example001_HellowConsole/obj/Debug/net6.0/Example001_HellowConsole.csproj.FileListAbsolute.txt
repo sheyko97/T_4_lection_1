@@ -1,0 +1,15 @@
+C:\Users\schei\Desktop\GeekBrains\4) Знакомство с языками программирования\Лекции\lection_1\Example001_HellowConsole\bin\Debug\net6.0\Example001_HellowConsole.exe
+C:\Users\schei\Desktop\GeekBrains\4) Знакомство с языками программирования\Лекции\lection_1\Example001_HellowConsole\bin\Debug\net6.0\Example001_HellowConsole.deps.json
+C:\Users\schei\Desktop\GeekBrains\4) Знакомство с языками программирования\Лекции\lection_1\Example001_HellowConsole\bin\Debug\net6.0\Example001_HellowConsole.runtimeconfig.json
+C:\Users\schei\Desktop\GeekBrains\4) Знакомство с языками программирования\Лекции\lection_1\Example001_HellowConsole\bin\Debug\net6.0\Example001_HellowConsole.dll
+C:\Users\schei\Desktop\GeekBrains\4) Знакомство с языками программирования\Лекции\lection_1\Example001_HellowConsole\bin\Debug\net6.0\Example001_HellowConsole.pdb
+C:\Users\schei\Desktop\GeekBrains\4) Знакомство с языками программирования\Лекции\lection_1\Example001_HellowConsole\obj\Debug\net6.0\Example001_HellowConsole.csproj.AssemblyReference.cache
+C:\Users\schei\Desktop\GeekBrains\4) Знакомство с языками программирования\Лекции\lection_1\Example001_HellowConsole\obj\Debug\net6.0\Example001_HellowConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schei\Desktop\GeekBrains\4) Знакомство с языками программирования\Лекции\lection_1\Example001_HellowConsole\obj\Debug\net6.0\Example001_HellowConsole.AssemblyInfoInputs.cache
+C:\Users\schei\Desktop\GeekBrains\4) Знакомство с языками программирования\Лекции\lection_1\Example001_HellowConsole\obj\Debug\net6.0\Example001_HellowConsole.AssemblyInfo.cs
+C:\Users\schei\Desktop\GeekBrains\4) Знакомство с языками программирования\Лекции\lection_1\Example001_HellowConsole\obj\Debug\net6.0\Example001_HellowConsole.csproj.CoreCompileInputs.cache
+C:\Users\schei\Desktop\GeekBrains\4) Знакомство с языками программирования\Лекции\lection_1\Example001_HellowConsole\obj\Debug\net6.0\Example001_HellowConsole.dll
+C:\Users\schei\Desktop\GeekBrains\4) Знакомство с языками программирования\Лекции\lection_1\Example001_HellowConsole\obj\Debug\net6.0\refint\Example001_HellowConsole.dll
+C:\Users\schei\Desktop\GeekBrains\4) Знакомство с языками программирования\Лекции\lection_1\Example001_HellowConsole\obj\Debug\net6.0\Example001_HellowConsole.pdb
+C:\Users\schei\Desktop\GeekBrains\4) Знакомство с языками программирования\Лекции\lection_1\Example001_HellowConsole\obj\Debug\net6.0\Example001_HellowConsole.genruntimeconfig.cache
+C:\Users\schei\Desktop\GeekBrains\4) Знакомство с языками программирования\Лекции\lection_1\Example001_HellowConsole\obj\Debug\net6.0\ref\Example001_HellowConsole.dll
